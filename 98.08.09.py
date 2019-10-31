@@ -1,0 +1,5 @@
+firstName = input("Please Enter First Name: ")
+lastName = input("Please Enter Last Name: ")
+fatherName = input("Please Enter Father Name: ")
+phone = input("Please Enter Phone Number: ")
+print("My Name is: "+firstName +" and My Last Name is: "+lastName+ " and My Father Name is: "+fatherName+" and My Phone Number is: "+phone)
